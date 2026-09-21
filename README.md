@@ -10,7 +10,7 @@ Andy Mark Crasco
 
 \## Section
 
-BSIT2A(MN1/EFTU1)
+2A(ILGX3)
 
 
 
